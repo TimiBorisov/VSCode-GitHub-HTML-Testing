@@ -15,7 +15,7 @@ I have already completed the process of creating a simple HTML file and pushing 
  I added the index.html file to the staging area of the Git repository using the command git add index.html.
 
 #5 Committing Changes: 
- With the command git commit -m "Add initial version of index.html", I committed the added HTML file to the repository with a meaningful commit 
+ With the command git commit -m "index.html", I committed the added HTML file to the repository with a meaningful commit 
  message.
 
 #6 Creation of GitHub Repository: 
@@ -24,11 +24,11 @@ I have already completed the process of creating a simple HTML file and pushing 
 
 #7 Setting Remote Origin: 
  I linked my local Git repository to the GitHub repository by copying the URL of my GitHub repository and running the command git remote add 
- origin <repository_url> in my terminal.
+ origin <https://github.com/TimiBorisov/my-Professional-Journey.git> in my terminal.
 
 #8 Pushing to GitHub: 
- Using the command git push -u origin master, I pushed my committed changes to the GitHub repository. If my main branch had a different name than 
- 'master', I would have replaced it accordingly.
+ Using the command git push -u origin main, I pushed my committed changes to the GitHub repository. If my main branch had a different name than 
+ 'main', I would have replaced it accordingly.
 
 #9 Verification on GitHub: 
  Finally, I verified on GitHub by visiting my repository in a web browser to ensure that the index.html file had been successfully pushed and was 
