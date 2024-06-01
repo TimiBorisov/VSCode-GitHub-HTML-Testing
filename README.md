@@ -24,7 +24,7 @@ I have already completed the process of creating a simple HTML file and pushing 
 
 #7 Setting Remote Origin: 
  I linked my local Git repository to the GitHub repository by copying the URL of my GitHub repository and running the command git remote add 
- origin [https://timiborisov.github.io/VSCode-GitHub-HTML-Testing/)](https://timiborisov.github.io/VSCode-GitHub-HTML-Testing/) in my terminal.
+ origin [https://github.com/TimiBorisov/VSCode-GitHub-HTML-Testing](https://github.com/TimiBorisov/VSCode-GitHub-HTML-Testing) in my terminal.
 
 #8 Pushing to GitHub: 
  Using the command git push -u origin main, I pushed my committed changes to the GitHub repository. If my main branch had a different name than 
