@@ -35,3 +35,5 @@ I have already completed the process of creating a simple HTML file and pushing 
  visible in the repository.
 
 By following these steps, I successfully created an HTML file, initialized a Git repository, linked it to a GitHub repository, and pushed my changes to GitHub. Now, my HTML code is hosted on GitHub and accessible to anyone with the repository URL.
+
+You can view the live website here: https://timiborisov.github.io/VSCode-GitHub-HTML-Testing/
