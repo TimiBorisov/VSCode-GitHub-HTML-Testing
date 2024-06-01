@@ -24,7 +24,7 @@ I have already completed the process of creating a simple HTML file and pushing 
 
 #7 Setting Remote Origin: 
  I linked my local Git repository to the GitHub repository by copying the URL of my GitHub repository and running the command git remote add 
- origin <https://github.com/TimiBorisov/my-Professional-Journey.git> in my terminal.
+ origin [https://github.com/TimiBorisov/my-Professional-Journey.git](https://timiborisov.github.io/VSCode-GitHub-HTML-Testing/) in my terminal.
 
 #8 Pushing to GitHub: 
  Using the command git push -u origin main, I pushed my committed changes to the GitHub repository. If my main branch had a different name than 
@@ -36,4 +36,4 @@ I have already completed the process of creating a simple HTML file and pushing 
 
 By following these steps, I successfully created an HTML file, initialized a Git repository, linked it to a GitHub repository, and pushed my changes to GitHub. Now, my HTML code is hosted on GitHub and accessible to anyone with the repository URL.
 
-You can view the live website here: https://timiborisov.github.io/VSCode-GitHub-HTML-Testing/
+You can view the live website here: [https://github.com/TimiBorisov/my-Professional-Journey.git](https://timiborisov.github.io/VSCode-GitHub-HTML-Testing/)
